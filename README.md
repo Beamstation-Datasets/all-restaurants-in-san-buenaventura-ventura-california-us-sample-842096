@@ -9,9 +9,9 @@
 | Dataset ID | `842096` |
 | Location | San Buenaventura (Ventura) |
 | Category | Restaurants |
-| Full dataset size | 161 records |
-| Free sample size | 16 records (9.94%) |
-| Last export | 2026-04-07T12:47:32.247225+00:00 |
+| Full dataset size | 163 records |
+| Free sample size | 16 records (9.82%) |
+| Last export | 2026-04-14T12:37:37.476515+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-buenaventura-ventura-california-us-sample-842096/releases/download/sample-latest/beamstation_842096_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
