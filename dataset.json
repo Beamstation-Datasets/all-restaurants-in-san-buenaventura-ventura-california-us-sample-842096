@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for San Buenaventura (Ventura), California with a population of over 110k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in San Buenaventura (Ventura), California, US",
-  "export_job_id": "de282fd4-316a-474b-a158-1f3f196272eb",
+  "export_job_id": "cc13e299-3d85-4426-a5e4-0d1ba4e77569",
   "github_org": "Beamstation-Datasets",
   "id_short": 842096,
   "location_name": "San Buenaventura (Ventura)",
   "location_type": "city",
   "repo_name": "all-restaurants-in-san-buenaventura-ventura-california-us-sample-842096",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/842096/beamstation_842096_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.55,
+  "sample_pct": 9.87,
   "sample_records": 15,
-  "sample_sha256": "06175228296e016638e951c09ff4dd29f31d9ac19ec45876e0c8395da0b78e0e",
-  "sample_size_bytes": 61937,
-  "total_records": 157,
-  "updated_at": "2026-04-21T13:26:19.088342+00:00"
+  "sample_sha256": "add6931e7fd510cfebed7fd7e4dcbd7d568bff601d4c3802cf498c01cc5a9877",
+  "sample_size_bytes": 57451,
+  "total_records": 152,
+  "updated_at": "2026-04-28T14:26:42.943876+00:00"
 }
