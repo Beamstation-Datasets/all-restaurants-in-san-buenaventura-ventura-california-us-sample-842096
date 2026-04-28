@@ -1,12 +1,12 @@
 {
-  "export_job_id": "de282fd4-316a-474b-a158-1f3f196272eb",
+  "export_job_id": "cc13e299-3d85-4426-a5e4-0d1ba4e77569",
   "id_short": 842096,
-  "published_at": "2026-04-21T19:53:05Z",
+  "published_at": "2026-04-28T19:57:47Z",
   "repo_name": "all-restaurants-in-san-buenaventura-ventura-california-us-sample-842096",
   "sample_asset_name": "beamstation_842096_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/842096/beamstation_842096_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 15,
-  "sample_sha256": "06175228296e016638e951c09ff4dd29f31d9ac19ec45876e0c8395da0b78e0e",
-  "sample_size_bytes": 61937,
-  "total_records": 157
+  "sample_sha256": "add6931e7fd510cfebed7fd7e4dcbd7d568bff601d4c3802cf498c01cc5a9877",
+  "sample_size_bytes": 57451,
+  "total_records": 152
 }
