@@ -1,6 +1,6 @@
 # All Restaurants in San Buenaventura (Ventura), California, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `842096` |
 | Location | San Buenaventura (Ventura) |
 | Category | Restaurants |
-| Full dataset size | 152 records |
-| Free sample size | 15 records (9.87%) |
-| Last export | 2026-04-28T14:26:42.943876+00:00 |
+| Full dataset size | 200 records |
+| Free sample size | 20 records (10.0%) |
+| Last export | 2026-05-06T04:37:00.065713+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-buenaventura-ventura-california-us-sample-842096/releases/download/sample-latest/beamstation_842096_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
